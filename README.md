@@ -1,5 +1,5 @@
 I am a Data Science major.
-My projects here are a combination of class work and programming done in my free time. Feel free to use any code I have posted on here for anything, no need for credit. 
+My projects here are a combination of class work and programming done in my free time.
 
 lroe34@gmail.com
 
