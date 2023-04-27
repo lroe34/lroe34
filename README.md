@@ -1,5 +1,6 @@
-I am a Data Science major.
-My projects here are a combination of class work and programming done in my free time.
+
+
+I am a data science major and the projects here are a combination of class work and programming done in my free time.
 
 lroe34@gmail.com
 
