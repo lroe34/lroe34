@@ -2,9 +2,6 @@
 
 I am a data science major and the projects here are a combination of class work and programming done in my free time.
 
-lroe34@gmail.com
-
-https://www.linkedin.com/in/luke-r-687160134/
 
 <!---
 lroe34/lroe34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
